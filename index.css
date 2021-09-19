@@ -54,8 +54,6 @@ left:40px;
 text-align:center;
 }
 .banner_content{ position: relative;   
- 
-left:200px;
  padding-top: 6%; 
     padding-bottom: 6%;   
   overflow:hidden;
@@ -63,6 +61,7 @@ left:200px;
 background-color:
  rgba(0, 0, 0, 0.7);   
   max-width: 660px;
+ margin:auto;
 }
 .button
 {
